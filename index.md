@@ -5,7 +5,7 @@
 Click on the project name to access the project report and project files!
 ```
 
-# Project List:
+# Projects List:
 
 ♦ [Production Scheduling: Falcon Die Casting Case-Study](https://github.com/Aniket-Thopte/Production_Scheduling-Falcon-Die-Casting-Case-Study) | Oct 2020 – Dec 2020
 
