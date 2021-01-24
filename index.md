@@ -13,9 +13,7 @@
 ♦ [Probabilistic Electric Load Forecasting](https://github.com/Aniket-Thopte/Probabilistic-Electric-Load-Forecasting-using-Gradient-Boosting-Regressor/tree/master) | Mar 2020 – May 2020
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Instruction:
 
 ```markdown
 Syntax highlighted code block
