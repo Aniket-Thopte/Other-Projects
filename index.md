@@ -1,3 +1,10 @@
+
+## Instruction:
+
+```markdown
+Click on the project name to access the project report and project files!
+```
+
 # Project List:
 
 ♦ [Production Scheduling: Falcon Die Casting Case-Study](https://github.com/Aniket-Thopte/Production_Scheduling-Falcon-Die-Casting-Case-Study) | Oct 2020 – Dec 2020
@@ -13,8 +20,4 @@
 ♦ [Probabilistic Electric Load Forecasting](https://github.com/Aniket-Thopte/Probabilistic-Electric-Load-Forecasting-using-Gradient-Boosting-Regressor/tree/master) | Mar 2020 – May 2020
 
 
-## Instruction:
 
-```markdown
-Click on the project name to access the project report and project files!
-```
