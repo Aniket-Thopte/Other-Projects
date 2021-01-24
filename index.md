@@ -2,7 +2,7 @@
 ## Instruction:
 
 ```markdown
-Click on the project name to access the project report and project files!
+Click on the project name to access the project report & project files!
 ```
 
 # Projects List:
