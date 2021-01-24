@@ -12,9 +12,6 @@
 
 ♦ [Probabilistic Electric Load Forecasting](https://github.com/Aniket-Thopte/Probabilistic-Electric-Load-Forecasting-using-Gradient-Boosting-Regressor/tree/master) | Mar 2020 – May 2020
 
-You can use the [editor on GitHub](https://github.com/Aniket-Thopte/Other-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
