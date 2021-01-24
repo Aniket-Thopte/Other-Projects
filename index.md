@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Project List:
 
 You can use the [editor on GitHub](https://github.com/Aniket-Thopte/Other-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
