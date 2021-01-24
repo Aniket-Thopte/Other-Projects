@@ -1,5 +1,17 @@
 # Project List:
 
+♦ [Production Scheduling: Falcon Die Casting Case-Study](https://github.com/Aniket-Thopte/Production_Scheduling-Falcon-Die-Casting-Case-Study) | Oct 2020 – Dec 2020
+
+♦ [Clustering Analysis:- Wholesale Store-Customer Segmentation & Power Usage Analysis](https://github.com/Aniket-Thopte/Clustering_Analysis-Wholesale_Customer_Segmentation-and-Power_Usage-Analysis) | Nov 2020
+
+♦ [Predictive Modeling: Decision Tree - Supermarket Organic Products Dataset using SAS Enterprise Miner](https://github.com/Aniket-Thopte/Predictive_Modeling-Decision_Trees-on-Supermarket-Organic-Products-Dataset-Using-SAS-E_MINER) | Nov 2020
+
+♦ [Logistic Regression Analysis: Insurance Claim Prediction & Movie Ratings Dataset](https://github.com/Aniket-Thopte/Logistic_Regression_Analysis-Insurance_Claim-Prediction-and-Movie_Ratings-Dataset.) | Oct 2020 
+
+♦ [Data Exploration & Multiple Regression Analysis: Fuel Consumption & Presidential Election Dataset](https://github.com/Aniket-Thopte/Data_Exploration-and-Multiple-Regression-on-Fuel_Consumption-and-Presidential_Election-Dataset) | Sep 2020
+
+♦ [Probabilistic Electric Load Forecasting](https://github.com/Aniket-Thopte/Probabilistic-Electric-Load-Forecasting-using-Gradient-Boosting-Regressor/tree/master) | Mar 2020 – May 2020
+
 You can use the [editor on GitHub](https://github.com/Aniket-Thopte/Other-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,13 +37,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aniket-Thopte/Other-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
