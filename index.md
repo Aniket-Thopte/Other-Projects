@@ -9,6 +9,7 @@ Click on the project name to access the project report & project files!
 
 ♦ [Supplier Selection by Ranking Method](https://github.com/Aniket-Thopte/Supplier-Selection-by-Ranking-Method) | Dec 2020
 
+
 ♦ [Production Scheduling: Falcon Die Casting Case-Study](https://github.com/Aniket-Thopte/Production_Scheduling-Falcon-Die-Casting-Case-Study) | Oct 2020 – Dec 2020
 
 ♦ [Clustering Analysis:- Wholesale Store-Customer Segmentation & Power Usage Analysis](https://github.com/Aniket-Thopte/Clustering_Analysis-Wholesale_Customer_Segmentation-and-Power_Usage-Analysis) | Nov 2020
