@@ -7,6 +7,8 @@ Click on the project name to access the project report & project files!
 
 # Projects List:
 
+♦ [Demand Forecasting: Public Bike Rental Predictive Modeling](https://github.com/Aniket-Thopte/Demand-Forecasting-Public-Bike-Rental-Predictive-Modeling-) | Jan 2021 – May 2021
+
 ♦ [Supplier Selection by Ranking Method](https://github.com/Aniket-Thopte/Supplier-Selection-by-Ranking-Method) | Dec 2020
 
 
